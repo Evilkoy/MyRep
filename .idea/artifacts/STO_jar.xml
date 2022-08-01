@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="STO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/STO_jar</output-path>
+    <root id="archive" name="STO.jar">
+      <element id="module-output" name="STO" />
+    </root>
+  </artifact>
+</component>
